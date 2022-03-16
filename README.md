@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul29564
-- 👀 I’m interested in Cyber Security.
-- 💞️ I’m looking to collaborate with people who are interested in creating a SOC platform with all the opensource tools.
-- 📫 Reach me @rdankhara123@gmail.com
+- 👋 Hi, I’m Rahul.
+- 👀 Enterprise Security Engineering
+- 💞️ I love playing aroung open source security tools.
+- 📫 Reach me @ rdankhara123@gmail.com
